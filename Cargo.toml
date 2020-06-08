@@ -1,0 +1,8 @@
+[package]
+name = "rust-various-number"
+version = "0.1.0"
+authors = ["Nakayama Daiju"]
+edition = "2018"
+
+[dependencies]
+num = "0.2"
